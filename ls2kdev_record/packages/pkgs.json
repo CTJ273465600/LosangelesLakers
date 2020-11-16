@@ -1,0 +1,37 @@
+[
+ {
+  "path": "/packages/iot/webclient", 
+  "ver": "v2.1.2", 
+  "name": "WEBCLIENT"
+ }, 
+ {
+  "path": "/packages/iot/webnet", 
+  "ver": "v2.0.2", 
+  "name": "WEBNET"
+ }, 
+ {
+  "path": "/packages/iot/netutils", 
+  "ver": "v1.2.0", 
+  "name": "NETUTILS"
+ }, 
+ {
+  "path": "/packages/language/micropython", 
+  "ver": "latest", 
+  "name": "MICROPYTHON"
+ }, 
+ {
+  "path": "/packages/system/lwext4", 
+  "ver": "latest", 
+  "name": "LWEXT4"
+ }, 
+ {
+  "path": "/packages/misc/optparse", 
+  "ver": "v1.0.0", 
+  "name": "OPTPARSE"
+ }, 
+ {
+  "path": "/packages/misc/vi", 
+  "ver": "latest", 
+  "name": "VI"
+ }
+]

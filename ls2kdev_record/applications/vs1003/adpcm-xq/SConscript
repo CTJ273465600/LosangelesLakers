@@ -1,0 +1,8 @@
+from building import *
+
+cwd     = GetCurrentDir()
+src	= Glob('*.c')+ Glob('*.cpp') + Glob('*_gcc.S')
+
+group = DefineGroup('Applications', src, depend = [''])
+
+Return('group')

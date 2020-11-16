@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "intelliSenseMode": "clang-x64",
+            "name": "Win32",
+            "cppStandard": "c++11",
+            "cStandard": "c99",
+            "compilerPath": "D:/env_released_1.2.0/env/tools/gnu_gcc/arm_gcc/mingw/bin/mips-sde-elf-gcc",
+            "includePath": [
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/bsp/ls2kdev",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/bsp/ls2kdev/drivers",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/components/dfs/filesystems/devfs",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/components/dfs/include",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/components/drivers/include",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/components/finsh",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/components/libc/compilers/newlib",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/include",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/libcpu/mips/common",
+                "E:/longxin/RT-Thread/rtthread-rt-thread-gitee_master/rt-thread/libcpu/mips/gs264"
+            ],
+            "defines": [
+                "HAVE_CCONFIG_H",
+                "RT_USING_NEWLIB"
+            ]
+        }
+    ],
+    "version": 4
+}
